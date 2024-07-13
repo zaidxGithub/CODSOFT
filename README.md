@@ -4,3 +4,12 @@ It contains a console based number game that generates a  random number betweeen
 TASK 2[CALCULATOR]
 It contains a console based simple calculator program which can do operations like( addition,subtraction,divison and multiplication).
 
+TASK 3 [ToDO LIST]
+It contains a console based todo list programm .
+Its Functionalities:
+Addition of new task
+Updating task status
+Viewing task
+Editing previous task
+Deletion of task 
+
